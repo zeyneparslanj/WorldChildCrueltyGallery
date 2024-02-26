@@ -55,6 +55,7 @@ header h1 {
 }
 
 .buttons a {
+  /* border: 2px solid purple; */
   display: inline-block;
   font-size: 14px;
   text-decoration: none;
